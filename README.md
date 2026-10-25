@@ -1,4 +1,8 @@
 <img width="1672" height="940" alt="image" src="https://github.com/user-attachments/assets/1f2639ef-0018-4414-9ec9-231c6ac68cd9" />
+<img width="1280" height="720" alt="dlq81H" src="https://github.com/user-attachments/assets/1e1b4ceb-ace7-4dfd-9396-b81cc5d7ab47" />
+<img width="2560" height="1440" alt="photo_2026-10-24_22-22-31" src="https://github.com/user-attachments/assets/16f85c5b-800b-4343-83c4-6b4634d839e5" />
+
+
 
 ARCHIVE: Demo
 ПРО ГРУ
