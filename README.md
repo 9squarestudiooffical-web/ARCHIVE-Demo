@@ -40,4 +40,8 @@ ARCHIVE: Red World Rebirth (DLC)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1e1b4ceb-ace7-4dfd-9396-b81cc5d7ab47" width="48%">
   <img src="https://github.com/user-attachments/assets/16f85c5b-800b-4343-83c4-6b4634d839e5" width="48%">
+  <img width="1280" height="720" alt="_uMzBr" src="https://github.com/user-attachments/assets/b81cc3db-f78f-4958-9709-4e580942794b" />
+  <img width="2560" height="1440" alt="photo_1_2026-10-24_22-22-43" src="https://github.com/user-attachments/assets/a444d6af-0bed-4ba8-9439-94fb37db4904" />
+  <img width="1280" height="720" alt="6x+HoG" src="https://github.com/user-attachments/assets/6f7c77d9-4b60-4365-be09-36d2c8757552" />
+
 </p>
