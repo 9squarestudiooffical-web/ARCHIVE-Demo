@@ -1,3 +1,5 @@
+<img width="1672" height="940" alt="image" src="https://github.com/user-attachments/assets/1f2639ef-0018-4414-9ec9-231c6ac68cd9" />
+
 ARCHIVE: Demo
 ПРО ГРУ
 
