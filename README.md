@@ -37,10 +37,7 @@ ARCHIVE: Red World Rebirth (DLC)
 Сюжетне доповнення для основної гри. Нова глава історії, яка розширює межі всесвіту ARCHIVE та вводить унікальні геймплейні механики.
 
 
-<details>
-<summary><b>📸 Скриншоты из игры</b></summary>
-<br>
-
-<img src="ССЫЛКА_НА_СКРИН_1" width="48%"> <img src="ССЫЛКА_НА_СКРИН_2" width="48%">
-
-</details>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1e1b4ceb-ace7-4dfd-9396-b81cc5d7ab47" width="48%">
+  <img src="https://github.com/user-attachments/assets/16f85c5b-800b-4343-83c4-6b4634d839e5" width="48%">
+</p>
